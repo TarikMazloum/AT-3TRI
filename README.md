@@ -12,9 +12,9 @@
 ![Projeto Copa do Mundo](docs/capaprojeto.jpg)
 
 ### 👥 Autores
-- Ana Luiza Cavalcante de Menezes rm:13922 
-- `Juliana Barbosa Sandes rm:12350` 
-- Thiago Baptista da Silva Soares rm:12264
+- Felipe Chiozzotto Gozzani rm:12030 
+- Kawuan Americo Mizael da Silva  rm:14695 
+- Tarik Omar Mazloum rm:14661
 
 # ⚽ AC1-3TRI | PORTAL COPA 
 
